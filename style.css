@@ -1,0 +1,53 @@
+body {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://images.freeimages.com/images/small-previews/8ef/canvas-1-1186635.jpg);
+}
+
+
+.my-nav {
+    background: #ffffff;
+    overflow: auto;
+    border-bottom-style: solid;
+    border-color: #cccccc;
+    margin-top: -10px;
+    padding-right: 20px;
+    padding: 0;
+  }
+
+.my-span {
+
+        background: #4aaaa5;
+        color: white;
+        padding: 22px;
+        position: relative;
+        left: 195px;
+        font-size: 2em;
+        font-weight: bold;
+}
+
+.my-container {
+    background: #ffffff;
+}
+
+.h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5
+    
+    
+}
+
+
+footer {
+    background: #666666
+}
+
+.my-row {
+    height: 120px;
+}
+
+button {
+    background: #4aaaa5;
+    color: white;
+}
+
