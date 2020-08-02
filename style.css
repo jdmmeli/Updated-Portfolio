@@ -51,3 +51,8 @@ button {
     color: white;
 }
 
+.img-fluid {
+    position: relative;
+    bottom: 10px;
+}
+
